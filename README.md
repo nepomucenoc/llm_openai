@@ -2,7 +2,7 @@
 
 This LLM project utilizes the OpenAI API to process and format blood test data according to specific requirements. By leveraging AI-powered language models, it transforms raw blood test data into a structured and standardized format, making it easier to analyze and interpret.
 
-![image](https://github.com/user-attachments/assets/f1a58c24-e511-4bd6-853a-e5a4d5013ee7)
+![Captura_de_tela_2025-01-15_145833-removebg-preview](https://github.com/user-attachments/assets/9dd86dbc-3f72-43f1-acdf-a257942f5b52)
 
 ## Features
 
